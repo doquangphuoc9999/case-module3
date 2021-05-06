@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/addPost.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/addUser.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/editPost.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/editUser.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin/listPost.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/Admin" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/adminPage/addPost.jsp" value="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/adminPage" />
+      </map>
+    </option>
+  </component>
+</project>

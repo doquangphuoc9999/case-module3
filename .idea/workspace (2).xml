@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lamLai_Case-STudy-Module3:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2614e750-6ed9-4968-836b-2c59f0afb240" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/ProductManages.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/java/Controller/ListProductControllerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/java/Controller/ProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/java/Model/DeleteProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/java/Model/EditProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/java/Model/FindByNameServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/java/Model/InfomationProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/java/Model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/java/Service/BassService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/webapp/List-product.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/webapp/addProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/webapp/css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/webapp/editProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/webapp/error.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/webapp/findName.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../11. MVC-model/BT/ProductManages/src/main/webapp/infomation.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/java/Controller/AddUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/java/Controller/DeleteUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/java/Controller/EditUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/java/Controller/searchUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/java/Model/Country.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/java/Model/ListUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/java/Model/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/java/Service/CountryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/java/Service/ICountry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/java/Service/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/java/Service/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/webapp/addUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/webapp/editUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/webapp/listUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/BT/Users/src/main/webapp/searchUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/TH/ManageUseJSP-Servlet-JDBC-MySQLAssignment/src/main/java/Controler/AddUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/TH/ManageUseJSP-Servlet-JDBC-MySQLAssignment/src/main/java/Controler/DeleteUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/TH/ManageUseJSP-Servlet-JDBC-MySQLAssignment/src/main/java/Controler/EditUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/TH/ManageUseJSP-Servlet-JDBC-MySQLAssignment/src/main/java/Controler/ShowUserServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/TH/ManageUseJSP-Servlet-JDBC-MySQLAssignment/src/main/java/Model/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/TH/ManageUseJSP-Servlet-JDBC-MySQLAssignment/src/main/java/Service/IUserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/TH/ManageUseJSP-Servlet-JDBC-MySQLAssignment/src/main/java/Service/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/TH/ManageUseJSP-Servlet-JDBC-MySQLAssignment/src/main/webapp/addUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/TH/ManageUseJSP-Servlet-JDBC-MySQLAssignment/src/main/webapp/editUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../12. JDBC/TH/ManageUseJSP-Servlet-JDBC-MySQLAssignment/src/main/webapp/listUser.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-AVinh/src/main/java/Controller/AddCustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-AVinh/src/main/java/Controller/DeleteCustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-AVinh/src/main/java/Controller/ListCustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-AVinh/src/main/java/Controller/editCustomerServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-AVinh/src/main/java/Model/Customers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-AVinh/src/main/java/Service/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-AVinh/src/main/java/Service/ICustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-AVinh/src/main/webapp/ListCustomer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-AVinh/src/main/webapp/addCustomer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BT-AVinh/src/main/webapp/editCustomer.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/AddServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/DeleteAuthorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/ErroServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/ListAuthorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/ListPostServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/ManageCateGoryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/addAuthorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/addCategoryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/deleteCategoryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/deletePostServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/editAuthorServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/editCategoryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/admin/editPostServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/blog/BlogSingleServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/blog/CategoryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/blog/ContactServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/blog/HomeBlogServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/blog/aboutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/blog/logOutServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/blog/loginHomeServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/blog/searchTitleServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/controller/signUp/SignUpServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/dao/AuthorDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/dao/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/dao/DBDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/dao/IBDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/dao/IUSER.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/dao/PostDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/model/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/java/model/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/homeBlog/about.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/homeBlog/blogSingle.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/homeBlog/category.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/homeBlog/contact.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/homeBlog/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/loginBlog/Login_v2/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/signUp/SignUp.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/startbootstrap/dist/addAuthor.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/startbootstrap/dist/addPost.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/startbootstrap/dist/addcategory.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/startbootstrap/dist/css/add.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/startbootstrap/dist/editAuthor.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/startbootstrap/dist/editCategory.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/startbootstrap/dist/editPost.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/startbootstrap/dist/erro.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/startbootstrap/dist/listAuthor.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/startbootstrap/dist/listCategory.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CaseStudy-Module3/src/main/webapp/startbootstrap/dist/listPost.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/java/Controller/EditNotesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/java/Controller/ListOfNotesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/java/Controller/addNoteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/java/Controller/deleteNoteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/java/Controller/notesServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/java/Dao/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/java/Dao/NoteDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/java/Dao/NoteTypeDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/java/Model/Note.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/java/Model/NoteType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/java/Service/ConService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/webapp/Css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/webapp/Css/add.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/webapp/add.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/webapp/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/webapp/listNote.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Castudy/src/main/webapp/notes.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Clone-blog/blogdemo/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/Controller/InsertPostServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/Controller/articleListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/Controller/deleteServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/Controller/editListServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/Dao/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/Dao/Interface/IDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/Dao/PostDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/Model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/Model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/java/Service/IBaseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/webapp/addPost.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/webapp/articleList.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../blog/src/main/webapp/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoAhThang/src/main/java/Controller/CategoryServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoAhThang/src/main/java/Controller/addBlogServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoAhThang/src/main/java/Dao/CatedaoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoAhThang/src/main/java/Dao/DBDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoAhThang/src/main/java/Dao/IBDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoAhThang/src/main/java/Model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoAhThang/src/main/java/Model/Post.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoAhThang/src/main/java/Service/CategoryService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoAhThang/src/main/java/Service/IBService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoAhThang/src/main/webapp/CoolAdmin/addBlog.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demoAhThang/src/main/webapp/CoolAdmin/listCategory.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/java/Controller/ListProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/java/Controller/SearchServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/java/Controller/addProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/java/Controller/deleteProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/java/Controller/editProductServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/java/Dao/CategoryDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/java/Dao/DBDAo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/java/Dao/IBDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/java/Dao/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/java/Model/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/java/Model/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/webapp/addProduct.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/webapp/edit.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/webapp/list.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exem-module3/src/main/webapp/search.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/HomeBlogServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/HomeBlog/HomeBlog.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11. MVC-model/TH/customersManages/src/main/java/serviec/EditCustomerServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../11. MVC-model/TH/customersManages/src/main/java/serviec/EditCustomerServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11. MVC-model/TH/customersManages/target/CustomerManages-1.0-SNAPSHOT/WEB-INF/classes/serviec/EditCustomerServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../11. MVC-model/TH/customersManages/target/CustomerManages-1.0-SNAPSHOT/WEB-INF/classes/serviec/EditCustomerServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11. MVC-model/TH/customersManages/target/classes/serviec/EditCustomerServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../11. MVC-model/TH/customersManages/target/classes/serviec/EditCustomerServlet.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pBaLrBzCL7RQBsCaXsi5opCXCm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat 9.0.43" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.43" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="15" nameIsGenerated="true">
+      <option name="SHOW_DIALOG_ON_UPDATE" value="false" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="lamLai_Case-STudy-Module3:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_Case-STudy-Module3_5" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51693" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="lamLai_Case-STudy-Module3:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2614e750-6ed9-4968-836b-2c59f0afb240" name="Default Changelist" comment="" />
+      <created>1614658887210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614658887210</updated>
+      <workItem from="1614658888278" duration="3374000" />
+      <workItem from="1614671404106" duration="22000" />
+      <workItem from="1614671462262" duration="2043000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="217" key="#BuildArtifactsBeforeRunChooser" timestamp="1614673494627">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="217" key="#BuildArtifactsBeforeRunChooser/0.0.1536.824@0.0.1536.824" timestamp="1614673494627" />
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614673519759">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="0" width="1089" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1614673519759" />
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1614670954620">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1614670954620" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1614668748697">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614668748697" />
+    <state width="1199" height="579" key="GridCell.Tab.0.bottom" timestamp="1614673507712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1199" height="579" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614673507712" />
+    <state width="1199" height="579" key="GridCell.Tab.0.center" timestamp="1614673507712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1199" height="579" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1614673507712" />
+    <state width="1199" height="579" key="GridCell.Tab.0.left" timestamp="1614673507712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1199" height="579" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1614673507712" />
+    <state width="1199" height="579" key="GridCell.Tab.0.right" timestamp="1614673507712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1199" height="579" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1614673507712" />
+    <state width="1199" height="579" key="GridCell.Tab.1.bottom" timestamp="1614673507714">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1199" height="579" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614673507714" />
+    <state width="1199" height="579" key="GridCell.Tab.1.center" timestamp="1614673507714">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1199" height="579" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1614673507714" />
+    <state width="1199" height="579" key="GridCell.Tab.1.left" timestamp="1614673507714">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1199" height="579" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1614673507714" />
+    <state width="1199" height="579" key="GridCell.Tab.1.right" timestamp="1614673507714">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1199" height="579" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1614673507714" />
+    <state width="1199" height="579" key="GridCell.Tab.2.bottom" timestamp="1614673507714">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1199" height="579" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1614673507714" />
+    <state width="1199" height="579" key="GridCell.Tab.2.center" timestamp="1614673507714">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1199" height="579" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1614673507714" />
+    <state width="1199" height="579" key="GridCell.Tab.2.left" timestamp="1614673507714">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1199" height="579" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1614673507714" />
+    <state width="1199" height="579" key="GridCell.Tab.2.right" timestamp="1614673507714">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1199" height="579" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1614673507714" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1614671363924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1614671363924" />
+  </component>
+</project>
